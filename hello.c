@@ -5,4 +5,4 @@ void main()
   printf("Hello world")
 }
 
-Bug introduced
+Bug removed
